@@ -1,0 +1,28 @@
+android_app_import {
+    name: "Lawnchair",
+    apk: "Lawnchair.apk",
+    presigned:true,
+    preprocessed:true,
+    optional_uses_libs: [
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
+}
+
+android_app_import{
+    name:"Lawnicons",
+    apk:"Lawnicons.apk",
+    presigned:true,
+    preprocessed:true,
+    optional_uses_libs: [
+        "androidx.window.extensions",
+        "androidx.window.sidecar",
+    ],
+}
+
+android_app_import{
+    name:"delta_icons",
+    apk:"website.leifs.delta.foss_217005.apk",
+    presigned:true,
+    preprocessed:true,
+ }
