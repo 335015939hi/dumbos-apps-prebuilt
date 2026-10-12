@@ -1,0 +1,3 @@
+website.leifs.delta.foss_217005.apk filter=lfs diff=lfs merge=lfs -text
+Lawnchair.apk filter=lfs diff=lfs merge=lfs -text
+Lawnicons.apk filter=lfs diff=lfs merge=lfs -text
